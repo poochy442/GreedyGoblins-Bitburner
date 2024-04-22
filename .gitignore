@@ -1,3 +1,5 @@
+.vscode/**
+!/.vscode/settings.template.json
 
 Netscriptefinitions.d.ts
 jsconfig.json

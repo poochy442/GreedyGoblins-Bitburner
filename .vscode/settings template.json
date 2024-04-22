@@ -4,5 +4,5 @@
     "bitburner.fileWatcher.enable": true,
     "bitburner.showPushSuccessNotification": true,
     "bitburner.showFileWatcherEnabledNotification": true,
-    "javascript.preferences.importModuleSpecifier": "non-relative",
+    "javascript.preferences.importModuleSpecifier": "non-relative"
 }
