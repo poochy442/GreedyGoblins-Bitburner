@@ -1,6 +1,6 @@
 {
     "bitburner.authToken": "<your-auth-token>",
-    "bitburner.scriptRoot": "/out",
+    "bitburner.scriptRoot": ".",
     "bitburner.fileWatcher.enable": true,
     "bitburner.showPushSuccessNotification": true,
     "bitburner.showFileWatcherEnabledNotification": true,
